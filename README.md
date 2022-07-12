@@ -22,3 +22,7 @@ https://www.kaggle.com/datasets/phylake1337/fire-dataset <br>
 https://www.kaggle.com/datasets/ankan1998/fire-detection-in-yolo-format<br>
 https://github.com/spacewalk01/Yolov5-Fire-Detection
 
+# reference
+
+https://arxiv.org/abs/1506.02640
+https://www.maskaravivek.com/post/yolov1/
