@@ -1,12 +1,18 @@
 # VGG16_YOLO_-V1_implementation
 
-this model is fire detection made by yolo v1 paper.
+python = 3.7.13 , tensorflow = 2.8.2
+
+This model is fire detection made by yolo v1 paper.
 but it has very poor performance because of poor loss value.
 i tried so many times, but it didn't work well
 
 ![img_2022-07-12_16-01-39_AdobeExpress](https://user-images.githubusercontent.com/93965016/178448209-0aaf5eda-6f80-4f87-84af-4c5bd03e9e30.gif)
 
+# model
 
+At first, i had built original YOLO_v1 layers in paper by a way of trial. as expected it was not trained well. <br> So i took VGG16 model at keras and then concatenate with yolo's inference layers.<br>
+i trained this model for alomost 24 hours, but loss value has stocked at 3 for some hours. and even i trained only one class, sometimes it predict other class( i named it unknown) <br>
+I'm still improving this model.
 
 # dataset
 
