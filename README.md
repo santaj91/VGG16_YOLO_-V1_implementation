@@ -26,3 +26,4 @@ https://github.com/spacewalk01/Yolov5-Fire-Detection
 
 https://arxiv.org/abs/1506.02640
 https://www.maskaravivek.com/post/yolov1/
+
