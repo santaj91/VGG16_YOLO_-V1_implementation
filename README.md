@@ -1,8 +1,8 @@
 # VGG16_YOLO_-V1_implementation
 
-Python = 3.7.13 , Tensorflow = 2.8.2
+Python = 3.7.13 , Tensorflow = 2.8.2 GPU: NVIDIA Tesla P100 16GB GPU(Colab)
 
-This model is fire detection made by yolo v1 paper.
+This model is a fire detection made by yolo v1 paper.
 but it has very poor performance because of high loss values.
 i tried so many times, but it didn't work well
 
@@ -11,7 +11,7 @@ i tried so many times, but it didn't work well
 # model
 
 At first, i had built original YOLO_v1 layers in paper by a way of trial. as expected it was not trained well. <br> So i took VGG16 model at keras and then concatenated with yolo's inference layers.<br>
-I trained this model for almost 24 hours, but loss value has not went down from 3 for some hours and even i trained only one class, sometimes it predict other class( i named it unknown) <br>
+I trained this model for almost 24 hours, but loss values have not went down from 3 for some hours and also even i trained only one class, but sometimes it predict other class( i named it unknown) <br>
 I'm still improving this model.
 
 # dataset
