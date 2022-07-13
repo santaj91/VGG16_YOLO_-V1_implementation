@@ -19,7 +19,7 @@ I'm still improving this model.
 
 # dataset
 
-i trained this with almost 5,900 fire pictures.<br>
+ trained this with almost 5,900 fire pictures.<br>
 
 https://www.kaggle.com/datasets/phylake1337/fire-dataset <br>
 https://www.kaggle.com/datasets/ankan1998/fire-detection-in-yolo-format<br>
