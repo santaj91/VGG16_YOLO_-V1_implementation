@@ -28,5 +28,5 @@ https://github.com/spacewalk01/Yolov5-Fire-Detection
 # reference
 
 https://arxiv.org/abs/1506.02640 <br>
-https://www.maskaravivek.com/post/yolov1/
+https://www.maskaravivek.com/post/yolov1/ <br>
 https://velog.io/@minkyu4506/YOLO-v1-%EB%A6%AC%EB%B7%B0-%EC%BD%94%EB%93%9C-%EA%B5%AC%ED%98%84tensorflow2]
