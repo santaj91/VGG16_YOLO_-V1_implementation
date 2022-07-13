@@ -1,4 +1,4 @@
-#YOLO_V1_implementation
+# YOLO_V1_implementation
 
 Python = 3.7.13 , Tensorflow = 2.8.2, GPU: NVIDIA Tesla P100 16GB GPU(Colab)
 
