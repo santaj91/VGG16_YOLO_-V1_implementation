@@ -13,7 +13,7 @@ I tried so many times, but it didn't work well
 
 # Model
 
-At first, i had built original YOLO_v1 layers in paper by a way of trial. as expected it was not trained well. <br> So i took VGG16 model at keras and then concatenated with yolo's inference layers.<br>
+At first, i had built original YOLO_v1 layers in paper by a way of trial. But as expected it was not trained well. <br> So i took VGG16 model at keras and then concatenated with yolo's inference layers.<br>
 I trained this model for almost 24 hours, but loss values have not went down from 3 for some hours and also even i trained only one class, but sometimes it predict other class( i named it unknown) <br>
 I'm still improving this model.
 
