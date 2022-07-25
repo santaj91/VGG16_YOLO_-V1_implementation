@@ -4,7 +4,7 @@ Python = 3.7.13 , Tensorflow = 2.8.2, GPU: NVIDIA Tesla P100 16GB GPU(Colab)
 
 This model is a fire detection model implementated by yolo v1 paper.
 but it has very poor performance because of high loss values.
-i tried so many times, but it didn't work well
+I tried so many times, but it didn't work well
 
 ![img_2022-07-12_16-01-39_AdobeExpress](https://user-images.githubusercontent.com/93965016/178448209-0aaf5eda-6f80-4f87-84af-4c5bd03e9e30.gif)
 ![fire (2)](https://user-images.githubusercontent.com/93965016/178639262-078d8b3f-8555-49c6-8b92-cc6a4d54e33d.gif)
