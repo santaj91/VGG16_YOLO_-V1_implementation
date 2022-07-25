@@ -11,13 +11,13 @@ I tried so many times, but it didn't work well
 
 
 
-# model
+# Model
 
 At first, i had built original YOLO_v1 layers in paper by a way of trial. as expected it was not trained well. <br> So i took VGG16 model at keras and then concatenated with yolo's inference layers.<br>
 I trained this model for almost 24 hours, but loss values have not went down from 3 for some hours and also even i trained only one class, but sometimes it predict other class( i named it unknown) <br>
 I'm still improving this model.
 
-# dataset
+# Dataset
 
 I trained this with almost 5,900 fire pictures.<br>
 
@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/phylake1337/fire-dataset <br>
 https://www.kaggle.com/datasets/ankan1998/fire-detection-in-yolo-format<br>
 https://github.com/spacewalk01/Yolov5-Fire-Detection
 
-# reference
+# Reference
 
 https://arxiv.org/abs/1506.02640 <br>
 https://www.maskaravivek.com/post/yolov1/ <br>
